@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @NickKirilov
 - 👀 I’m interested in Python, Technologies, Music, Books, Travelling, Trekking.
-- 🌱 I’m looking for a role as a Junior Data Engineer.
+- 🌱 I’m working as a Senior Solution Consultant, Data Engineer at Bright Consulting.
 - 📫 How to reach me - nickkirilov04@gmail.com
-- I dream of working on AI, Machine and Deep learning and Neural networks.
+- I'm pursuing a Bachelor degree in AI & ML Engineering. You can find some of my projects here.
+- My goal is to transition fomr Data Engineering to ML Engineering and Data Science.
 <!---
 NickKirilov/NickKirilov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
