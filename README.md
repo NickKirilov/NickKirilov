@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NickKirilov
-- 👀 I’m interested in Python, Technologies, Music, Books, Travelling, Trekking.
+- 👀 I’m interested in Books, Gold Prospecting, Technologies, Travelling, Trekking.
 - 🌱 I’m working as a Senior Solution Consultant, Data Engineer at Bright Consulting.
 - 📫 How to reach me - nickkirilov04@gmail.com
 - I'm pursuing a Bachelor degree in AI & ML Engineering at Amsterdam Tech. You can find some of my projects here.
